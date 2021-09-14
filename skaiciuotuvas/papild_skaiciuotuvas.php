@@ -15,7 +15,7 @@
 </head>
 <body>
 
-    <form action="" method="get">
+    <form action="papild_skaiciuotuvas.php" method="get">
 
 
         <input type="text" value="0" name="skaicius1" />

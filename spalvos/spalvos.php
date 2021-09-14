@@ -11,7 +11,7 @@
 <body>
 
 
-    <form action="" method="post">
+    <form action="spalvos.php" method="post">
 
     <input type="text" name="spalva">
 
